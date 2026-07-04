@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I am Diogo 👋
+
+- :mortar_board: MSc Informatics and Computation Engineering @ FEUP
+- 
 
 <!--
 **diogof1/diogof1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
