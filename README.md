@@ -1,7 +1,6 @@
-## Hi, I am Diogo 👋
+## Hi, there 👋
 
-- :mortar_board: MSc Informatics and Computation Engineering @ FEUP
-- 
+I am Diogo, currently enrolled in the MSc in Informatics and Computing Engineering at FEUP. I am passionate about software engineering and looking to improve my skills.
 
 <!--
 **diogof1/diogof1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
